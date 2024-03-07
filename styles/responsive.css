@@ -22,7 +22,7 @@
 
 @media (min-width: 576px) {
   .destinations::after {
-    display: none;
+    display: block;
   }
 }
 
