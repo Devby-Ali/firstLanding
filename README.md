@@ -1,0 +1,2 @@
+# firstLanding
+first project(STATIC)
