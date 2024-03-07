@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "raleway";
+    src: url("../fonts/Raleway/Raleway-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "raleway Medium";
+    src: url("../fonts/Raleway/Raleway-Medium.ttf") format("truetype");
+}
+
+
+@font-face {
+    font-family: "lobster";
+    src: url("../fonts/Lobster/Lobster-Regular.ttf") format("truetype");
+}
+
+
+@font-face {
+    font-family: "raleway semibold";
+    src: url("../fonts/Raleway/Raleway-SemiBold.ttf") format("truetype");
+}

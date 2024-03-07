@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="517aa015-3e4d-4617-b3d9-83d724b0a360" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/styles/app.css" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="22C9DSsjoOkG8VGsAVLDp4fPucM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/svgs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hamidreza\Documents\Project1\images\svgs" />
+      <recent name="C:\Users\Hamidreza\Documents\Project1\images" />
+      <recent name="C:\Users\Hamidreza\Documents\Project1\fonts\Archivo" />
+      <recent name="C:\Users\Hamidreza\Documents\Project1\fonts\Roboto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hamidreza\Documents\Project1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="517aa015-3e4d-4617-b3d9-83d724b0a360" name="Changes" comment="" />
+      <created>1639330581598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639330581598</updated>
+      <workItem from="1639330582832" duration="4137000" />
+      <workItem from="1639412084207" duration="3712000" />
+      <workItem from="1639493449613" duration="40000" />
+      <workItem from="1639756743321" duration="2976000" />
+      <workItem from="1640011771814" duration="2694000" />
+      <workItem from="1640177476063" duration="2701000" />
+      <workItem from="1640181388031" duration="208000" />
+      <workItem from="1640195461634" duration="7195000" />
+      <workItem from="1640245996771" duration="6827000" />
+      <workItem from="1640877453894" duration="4458000" />
+      <workItem from="1641020275106" duration="883000" />
+      <workItem from="1641040596298" duration="2283000" />
+      <workItem from="1641199660812" duration="49000" />
+      <workItem from="1641735247383" duration="6020000" />
+      <workItem from="1642062469023" duration="7154000" />
+      <workItem from="1642072771553" duration="1590000" />
+      <workItem from="1642750551154" duration="7965000" />
+      <workItem from="1643357463444" duration="8839000" />
+      <workItem from="1643868061567" duration="10142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
