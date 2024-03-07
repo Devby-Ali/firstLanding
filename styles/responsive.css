@@ -21,6 +21,9 @@
 }
 
 @media (min-width: 576px) {
+  .destinations::after {
+    display: none;
+  }
 }
 
 @media (min-width: 768px) {
@@ -103,7 +106,7 @@
   }
   .header-content {
     margin-top: 14rem;
-}
+  }
   .newsletter {
     justify-content: space-between;
   }
