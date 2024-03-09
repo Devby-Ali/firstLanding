@@ -1,2 +1,2 @@
 # firstLanding
-first project(STATIC)
+[first project(static)](https://theotherali.github.io/firstLanding/)
