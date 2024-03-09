@@ -497,7 +497,6 @@ a {
     background-image: url("../images/svgs/shape1.svg");
     right: -45rem;
     top: -10rem;
-    display: none;
 }
 .destinations::before{
     background-image: url("../images/svgs/shape2.svg");

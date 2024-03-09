@@ -21,9 +21,6 @@
 }
 
 @media (min-width: 576px) {
-  .destinations::after {
-    display: block;
-  }
 }
 
 @media (min-width: 768px) {
