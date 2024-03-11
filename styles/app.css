@@ -498,11 +498,11 @@ a {
     right: -45rem;
     top: -10rem;
 }
-.destinations::before{
+/* .destinations::before{
     background-image: url("../images/svgs/shape2.svg");
     left: -45rem;
     bottom: 40rem;
-}
+} */
 
 .destinations__logo{
     width: 8rem;
