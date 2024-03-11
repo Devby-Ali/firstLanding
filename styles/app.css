@@ -583,7 +583,8 @@ a {
 }
 .destinations::after {
   background-image: url("../images/svgs/shape1.svg");
-  top: 6rem;
+  right: 5rem;
+  top: 12rem;
 }
 .destinations::before {
   background-image: url("../images/svgs/shape2.svg");
