@@ -581,11 +581,11 @@ a {
   background-repeat: no-repeat;
   z-index: -1;
 }
-.destinations::after {
+/* .destinations::after {
   background-image: url("../images/svgs/shape1.svg");
   right: 5rem;
   top: 12rem;
-}
+} */
 .destinations::before {
   background-image: url("../images/svgs/shape2.svg");
   left: -45rem;
