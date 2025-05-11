@@ -943,8 +943,19 @@ a {
   display: block;
 }
 
+.footer__Copy-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
 .footer__copy-right {
-  text-align: center;
   font-size: 1.4rem;
   margin-top: 2rem;
+}
+.footer__dev-info{
+  font-size: 1.4rem;
+  margin-top: 2rem;
+  font-weight: bold;
 }
