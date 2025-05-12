@@ -985,6 +985,7 @@ a {
   color: #000;
   height: 25px;
   width: 25px;
+  margin-left: 0.3rem;
 }
 
 .github-link:hover {
