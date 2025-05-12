@@ -128,6 +128,14 @@
   }
 }
 
+@media (min-width: 1280px) {
+  .dev-info {
+    top: -7rem;
+    left: 19.8rem;
+    border-bottom-left-radius: 5px;
+  }
+}
+
 @media (min-width: 1400px) {
   .newsletter {
     padding: 3rem 6rem;
