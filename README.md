@@ -22,7 +22,7 @@ My first project is a **landing page** designed to showcase a camping website. I
 ## Deployment
 
 This app is deployed online and accessible at:
-[Weather App - Live Demo](https://devby-ali.github.io/firstLanding/)
+[Camping web - Live Demo](https://devby-ali.github.io/firstLanding/)
 
 ## Folder Structure
 
