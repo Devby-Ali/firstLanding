@@ -1,5 +1,7 @@
 # First Landing Page
 
+Feel free to give it a star ⭐ to this repository please. I appreciate your support in advance. 💙
+
 ## Overview
 
 My first project is a **landing page** designed to showcase a camping website. It highlights the various services, destinations, and features, providing an engaging and visually appealing experience for users. The page is fully responsive and optimized for different devices.
@@ -37,7 +39,7 @@ firstLanding/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Devby-Ali/firstLanding.git
    ```
 2. Open the `index.html` file in your browser.
 
