@@ -17,6 +17,11 @@ My first project is a **landing page** designed to showcase a camping website. I
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and layout.
 
+## Deployment
+
+This app is deployed online and accessible at:
+[Weather App - Live Demo](https://devby-ali.github.io/firstLanding/)
+
 ## Folder Structure
 
 ```
